@@ -19,8 +19,6 @@ Outside of research, I am actively involved in financial markets and follow:
 * Forex
 * Cryptocurrency
 
-## Web3 Experience
-
 I am currently learning and building in the **Web3 ecosystem**. My current experience includes:
 
 * Writing **smart contracts**
