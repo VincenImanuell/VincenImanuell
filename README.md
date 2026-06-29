@@ -53,7 +53,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VincenImanuell&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="160"/>
+  <img src="https://github-profile-git-main-vincens-projects-dbcee7e9.vercel.app/api?username=VincenImanuell&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="160"/>
 </p>
 
 ---
