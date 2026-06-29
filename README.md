@@ -1,54 +1,37 @@
-# Hello there!
+<h1 align="center">Hi, I'm Vincen 👋</h1>
 
-## About Me
+<p align="center">
+  Currently learning and preparing for a career in IT Engineering.
+</p>
 
-My name is Vincen Imanuel. I am an undergraduate student at Duta Wacana Christian University in Yogyakarta, Indonesia. I am passionate about technology, finance, and emerging technologies.
+---
 
-I have previously worked on several **Machine Learning projects**, and my background started from exploring ML, AI, and data analysis. Currently, I am expanding my focus toward finance and decentralized technologies, and working on research and projects related to:
+### About Me
 
-* Quantitative Finance
-* Pair Trading in the Indonesian Stock Market
-* Machine Learning & Data Analysis
-* Web3 and Blockchain Development
+- Focused on learning Java, Spring Boot, and SQL for job preparation
+- Also dabbled a bit in Web3 (Solidity, basic smart contracts)
+- Still learning, so most repos here are works in progress
 
-I am currently writing an article about **pair trading strategies in Indonesian stocks**, exploring statistical arbitrage and quantitative trading approaches.
+---
 
-Outside of research, I am actively involved in financial markets and follow:
+### Tech I'm learning/using
 
-* Stock Trading & Investment
-* Forex
-* Cryptocurrency
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-I am currently learning and building in the **Web3 ecosystem**. My current experience includes:
+---
 
-* Writing **smart contracts**
-* Building **full-stack Web3 applications**
-* Integrating **wallets with web applications**
-* Working with **on-chain and off-chain components**
+### GitHub Stats
 
-While I am still developing deeper expertise, I enjoy experimenting with decentralized technologies and learning how blockchain systems work end-to-end.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VincenImanuell&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
+</p>
 
-## Skills
+---
 
-* **Programming Languages**: Python, Java, JavaScript, PHP, C, C++
-* **Data & Finance**: Pandas, Quantitative Analysis, Trading Research
-* **Web3**: Smart Contracts, Wallet Integration, On-chain / Off-chain Architecture
-* **Tools**: Git, GitHub, Jupyter Notebook
+### Contact
 
-## Current Interests
-
-I am currently exploring:
-
-* Quantitative trading strategies
-* Algorithmic trading systems
-* Blockchain & decentralized applications (dApps)
-* Financial data analysis
-
-## Get in Touch
-
-Feel free to connect with me:
-
-* [LinkedIn](https://www.linkedin.com/in/vincenimanuel/)
-* [Email](vincenimanuel13@gmail.com)
-
-Thanks for visiting my GitHub profile! 🚀
+GitHub: [@VincenImanuell](https://github.com/VincenImanuell)
