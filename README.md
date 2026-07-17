@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-- Final-year Informatics graduate with a research focus on quantitative finance. My thesis applies statistical methods (cointegration, correlation) to pair trading strategies on the Indonesian stock market
+- Informatics fresh graduate with a research focus on quantitative finance. My thesis applies statistical methods (cointegration, correlation) to pair trading strategies on the Indonesian stock market
 - Experienced Assistant Lecturer for 3+ years across Database Systems, Web Programming, Algorithms, and AI for Trading
 - Machine Learning Cohort graduate at Bangkit Academy (led by Google, GoTo, Traveloka), with a computer vision capstone project
 - Full-stack development experience through an internship, plus multiple hackathon projects exploring emerging tech like blockchain and smart contracts
