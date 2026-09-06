@@ -6,13 +6,12 @@
 ---
 
 ### About Me
-- Informatics fresh graduate with a research focus on quantitative finance. My thesis applies statistical methods (cointegration, correlation) to pair trading strategies on the Indonesian stock market
-- Experienced Assistant Lecturer for 3+ years across Database Systems, Web Programming, Algorithms, and AI for Trading
+- Informatics fresh graduate. My thesis applies statistical methods (cointegration, correlation) to pair trading strategies on the Indonesian stock market
+- Experienced Assistant Lecturer across Database Systems, Web Programming, Algorithms, AI for Trading, etc.
 - Machine Learning Cohort graduate at Bangkit Academy (led by Google, GoTo, Traveloka), with a computer vision capstone project
-- Full-stack development experience through an internship, plus multiple hackathon projects exploring emerging tech like blockchain and smart contracts
+- Full-stack and ML/AI development experience through an internship, plus multiple hackathon projects exploring emerging tech like blockchain and smart contracts
 - Built IoT projects, including a smart waste bin and smart garden system using MQTT and Node-RED, with hands-on basic electrical/circuit work
 - Explored mobile development with Kotlin & Android Studio
-- Currently deepening my skills in Java, Spring Boot, and SQL for enterprise-grade backend development
 
 ---
 
